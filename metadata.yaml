@@ -1,0 +1,27 @@
+_repo: An-American-Robinson-Crusoe-for-American-Boys-and-Girls_22309
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22309-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Allison, Samuel B. (Samuel Buell)
+    birthdate: 1861
+    gutenberg_agent_id: '2532'
+    url: http://www.gutenberg.org/2009/agents/2532
+description: ''
+gutenberg_issued: '2007-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22309'
+  lccn: '19004447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Shipwreck survival -- Juvenile fiction'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Juvenile fiction'
+title: An American Robinson Crusoe for American Boys and Girls
+url: http://www.gutenberg.org/ebooks/22309
